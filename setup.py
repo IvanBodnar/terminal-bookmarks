@@ -6,6 +6,6 @@ setup(
     packages=find_packages(),
     entry_points='''
         [console_scripts]
-        run=src.main:run
+        run=main:run
     ''',
 )
